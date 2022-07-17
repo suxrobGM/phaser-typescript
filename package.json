@@ -1,7 +1,7 @@
 {
-  "name": "treasure-hunt",
+  "name": "phaser-typescript",
   "version": "1.0.0",
-  "description": "Treasure Hunt",
+  "description": "Phaser 3 TypeScript Starter",
   "main": "dist/index.js",
   "scripts": {
     "dev": "vite",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geocine/phaser3-rollup-typescript.git"
+    "url": "git+https://github.com/suxrobGM/phaser-typescript.git"
   },
-  "author": "Aivan Monceller",
+  "author": "Sukhrob Ilyosbekov, Aivan Monceller",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/geocine/phaser3-rollup-typescript/issues"
+    "url": "https://github.com/suxrobGM/phaser-typescript/issues"
   },
-  "homepage": "https://github.com/geocine/phaser3-rollup-typescript#readme",
+  "homepage": "https://github.com/suxrobGM/phaser-typescriptt#readme",
   "devDependencies": {
     "@rollup/plugin-alias": "^3.1.9",
     "@rollup/plugin-commonjs": "^22.0.1",
